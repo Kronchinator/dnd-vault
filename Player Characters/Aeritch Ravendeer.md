@@ -16,7 +16,18 @@ tags: [player-character, bard, high-elf]
 
 ---
 
-## Stats
+## Combat Stats
+
+| | |
+|--|--|
+| **AC** | 12 (leather armour + DEX) |
+| **HP** | 9 (8 + CON 1) |
+| **Hit Die** | d8 |
+| **Initiative** | +1 (DEX) |
+| **Speed** | 30 ft |
+| **Size** | Medium |
+
+## Ability Scores
 
 | Stat | Score | Modifier |
 |------|-------|----------|
@@ -37,6 +48,14 @@ tags: [player-character, bard, high-elf]
 - Perception +3
 - Deception +5
 - Persuasion +5
+
+## Racial Traits (High Elf)
+
+- **Darkvision** — See in dim light as bright, darkness as dim, up to 60 ft
+- **Fey Ancestry** — Advantage on saves vs. charm; immune to magical sleep (including her own *Sleep* spell)
+- **Trance** — Needs only 4 hours of meditation instead of 8 hours sleep for a long rest
+- **Keen Senses** — Proficiency in Perception (already included above)
+- **Elf Weapon Training** — Proficient with longsword, shortsword, shortbow, longbow (already included)
 
 ---
 

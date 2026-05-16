@@ -76,7 +76,7 @@ tags: [player-character, cleric, kalashtar]
   - Level 5: Plant Growth, Wind Wall
   - Level 7: Dominate Beast, Grasping Vine
   - Level 9: Insect Plague, Tree Stride
-- **Channel Divinity — Charm Animals and Plants** *(unlocks at level 2)* — As an action, present holy symbol; each beast and plant within 30 ft must succeed WIS save (DC 14) or be charmed for 1 minute.
+- [[Channel Divinity - Charm Animals and Plants]] *(unlocks at level 2)* — As an action, present holy symbol; each beast and plant within 30 ft must succeed WIS save (DC 14) or be charmed for 1 minute.
 
 ---
 
@@ -89,7 +89,7 @@ tags: [player-character, cleric, kalashtar]
 
 **Domain Spells** *(always prepared)*
 - [[Speak with Animals]]
-- Animal Friendship
+- [[Animal Friendship]]
 
 **1st Level Slots:** 2
 *(Additional prepared spells not yet specified — up to 5 per day from full cleric list)*

@@ -53,7 +53,7 @@ tags: [player-character, barbarian, golem, homebrew]
 ## Racial Traits (Cursed Golem — Homebrew)
 
 - **[[Iron Frame]]** — When not wearing armour, AC = 13 + CON modifier (= **16**). Overrides standard Unarmored Defense.
-- **Stone Resistance** — Resistance to a damage type related to stone/earth *(clarify with player — likely bludgeoning, or resistance to petrification effects)*
+- **Stone Resistance** — Resistance to bludgeoning and slashing damage
 - **Construct Immunities** — Immune to the frightened and charmed conditions; no need to eat, drink, or breathe
 - **Poison & Disease Resilience** — Advantage on saving throws against poison and disease
 
@@ -97,6 +97,5 @@ None.
 - This is a critical plot constraint. Consider how this will be introduced narratively and what happens if the party separates.
 
 ### Open Questions
-- What is "Stone Resistance" exactly? Bludgeoning damage resistance? Immunity to petrification? Needs ruling.
 - Who is Goatius Everest? What is the nature of the tether — curse, bond, enchantment?
 - How does Melogg's Large size affect the party? (Squeezing through doors, seating at taverns, etc.)

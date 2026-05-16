@@ -4,7 +4,7 @@ player:
 race: Kalashtar
 class: Cleric
 level: 1
-subclass: (Divine Domain — must be chosen at level 1)
+subclass: Nature Domain
 background: 
 tags: [player-character, cleric, kalashtar]
 ---
@@ -69,7 +69,14 @@ tags: [player-character, cleric, kalashtar]
   - **Spell Save DC:** 14 (8 + 2 prof + 4 WIS)
   - **Spell Attack Bonus:** +6
   - **Prepared Spells per day:** 5 (WIS mod 4 + level 1) + domain spells always prepared
-- **Divine Domain** — ⚠️ *Not yet selected. Must be chosen at level 1 — this is urgent. "Speak with Animals" and thematic feel suggest Nature or Life domain.*
+- **Acolyte of Nature** *(Nature Domain, level 1)* — Gain one druid cantrip of choice (not yet selected). Gain proficiency in one of: Animal Handling, Nature, or Survival (not yet selected).
+- **Nature Domain Spells** — Always prepared, don't count against prepared spell limit:
+  - Level 1: Animal Friendship, Speak with Animals ✓
+  - Level 3: Barkskin, Spike Growth
+  - Level 5: Plant Growth, Wind Wall
+  - Level 7: Dominate Beast, Grasping Vine
+  - Level 9: Insect Plague, Tree Stride
+- **Channel Divinity — Charm Animals and Plants** *(unlocks at level 2)* — As an action, present holy symbol; each beast and plant within 30 ft must succeed WIS save (DC 14) or be charmed for 1 minute.
 
 ---
 
@@ -80,10 +87,12 @@ tags: [player-character, cleric, kalashtar]
 - [[Spare the Dying]]
 - [[Thaumaturgy]]
 
-**1st Level Slots:** 2
+**Domain Spells** *(always prepared)*
 - [[Speak with Animals]]
+- Animal Friendship
 
-> Note: Clerics prepare from their full class list. The prepared list beyond Speak with Animals is not yet specified.
+**1st Level Slots:** 2
+*(Additional prepared spells not yet specified — up to 5 per day from full cleric list)*
 
 ---
 
@@ -108,7 +117,7 @@ tags: [player-character, cleric, kalashtar]
 
 ## DM Notes
 
-- **Divine Domain not selected** — Critical gap. Domain determines bonus spells, Channel Divinity, and other features from level 1. Needs to be resolved before first session.
-- The *Speak with Animals* spell is thematically notable — may hint toward Nature Domain (which grants it as a domain spell, always prepared).
-- Carries both a Mace and a Greatclub — unusual. The Greatclub requires two hands and cannot be used with a shield. DM may want to clarify intended loadout.
-- WIS 18 at level 1 is exceptional — this character will be a dominant force in saving throw contests and healing.
+- **Acolyte of Nature choices not yet made** — needs one druid cantrip and one skill proficiency (Animal Handling, Nature, or Survival).
+- Carries both a Mace and a Greatclub — the Greatclub requires two hands and cannot be used with a shield. Clarify intended combat loadout.
+- WIS 18 at level 1 is exceptional — DC 14 saves and +6 spell attack will be dominant at this tier.
+- Animal Friendship (domain spell, always prepared) not yet noted on original sheet — remind player.

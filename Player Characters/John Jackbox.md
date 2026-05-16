@@ -18,7 +18,7 @@ tags: [player-character, rogue, human]
 
 | | |
 |--|--|
-| **AC** | 12 (DEX — no armor listed; leather armor would give 13) |
+| **AC** | 13 (leather armour 11 + DEX 2) |
 | **HP** | 10 (8 + CON 2) |
 | **Hit Die** | d8 |
 | **Initiative** | +2 (DEX) |
@@ -82,11 +82,10 @@ None.
 
 | Item | Notes |
 |------|-------|
+| Leather armour | AC 11 + DEX mod |
 | Rapier | 1d8 piercing, finesse |
 | Shortbow | 1d6 piercing, range 80/320 ft |
 | Arrows ×20 | |
-
-> ⚠️ No armor listed — standard rogue starting gear includes leather armor (AC 13 + DEX). Confirm with player.
 
 ---
 

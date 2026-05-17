@@ -92,7 +92,11 @@ tags: [player-character, cleric, kalashtar]
 - [[Animal Friendship]]
 
 **1st Level Slots:** 2
-*(Additional prepared spells not yet specified — up to 5 per day from full cleric list)*
+
+**Prepared 1st Level Spells** *(up to 5, not counting domain spells)*
+- [[Healing Word]] — 1d4+4 healing, **bonus action**, range 60 ft
+- [[Cure Wounds]] — 1d8+4 healing, action, touch range; **cannot heal constructs (Melogg)**
+- *(3 slots remaining — to be chosen)*
 
 ---
 

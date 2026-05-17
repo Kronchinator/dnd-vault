@@ -36,6 +36,50 @@ This is a tutorial session. Players are new to D&D. Every mechanical moment shou
 
 ---
 
+## Forming the Party — Getting Strangers to Talk
+
+These techniques run inside Beat 1. You don't need the party bonded before Corvin arrives — you just need them **looking at each other**. Corvin does the rest.
+
+### 1. Remove the Choice of Sitting Apart
+Oswin only has one table that's ready. The others are dirty, broken, or reserved for a local regular. He gestures toward the one big table near the fire without asking. First-time players will just sit there — they don't know they're allowed to refuse.
+
+> *"Fire's warmest over here. Sit wherever."*
+
+They're at the same table before they've said a word to each other.
+
+### 2. Make Melogg Impossible to Ignore
+A Large golem walks into a tavern. Nobody in the room can pretend that didn't happen. Have Oswin react practically:
+
+> *"You'll want the end of the bench. The chairs won't hold you."*
+
+Every player just looked at Melogg's player. That's the first moment of shared attention. Follow it — have someone catch Melogg's eye, or ask Melogg's player directly: *"What does Melogg do when he sits down?"*
+
+### 3. Aeritch Plays
+If the player doesn't think to play the lyre, prompt them:
+
+> *"Aeritch — the common room is quiet. Oswin looks like he could use the atmosphere. What are you doing?"*
+
+Music fills a room. Give each player a one-line reaction — *"What does your character think when they hear the lyre?"* — and suddenly everyone is looking at the same person and has an opinion about her. The Lyre of Veilsong hums near the Old Chord shrine, but before that it's just a beautiful instrument played well. Let it land emotionally first.
+
+### 4. Ressi's Mind Link
+Prompt Ressi's player:
+
+> *"Ressi — you're attuned to the minds around you. The room feels heavy. There's someone nearby carrying something significant. What does Ressi do?"*
+
+If they reach out mentally to another character, ask that character's player: *"You feel a gentle presence at the edge of your thoughts — not invasive, just there. Like someone knocking. What do you do?"* This is intimate and memorable. It will bond those two players immediately.
+
+### 5. Let Amoris Almost Get Caught
+Amoris is a fugitive using a false identity. Play her nerves:
+
+> *"Amoris — two men near the door glance at you. One leans toward the other and says something quietly. They're probably talking about something else entirely. Probably. What does Amoris do?"*
+
+Whether she panics or holds very still, someone at the table notices. Have John's player roll Insight. On a success: *"She's running from something."* Now John has to decide what to do with that. Two characters with a secret between them before a word has been exchanged.
+
+### 6. Corvin Does the Rest
+When Corvin pushes Oswin, everyone at the table has the same reaction at the same time. Whatever they do — intervene, hold back, argue about it afterward — they're doing it *together*. The conversation after Corvin leaves is the party forming. Let it run.
+
+---
+
 ## Beat 1 — Arrival at the Tillerman's Rest
 
 ### DM Script — Entering the Tavern

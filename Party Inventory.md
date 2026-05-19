@@ -44,6 +44,20 @@ These items have narrative significance. Track them carefully.
 | **Brek's note** | **Unread** | **A name and address in Aldenmire written in someone else's hand — the informant's location** |
 | Aeritch's wanted sketch | Party | The parchment Brek was carrying; rough sketch of Aeritch's face |
 
+*From the bridge checkpoint (taken during the market section).*
+
+| Item | Status | Notes |
+|---|---|---|
+| Bridge guard ledger | Party | Taken from the guard post; contents TBD |
+| Guard leather armour ×2 | Unclaimed | AC 11+DEX |
+| Guard daggers ×2 | Unclaimed | 1d4 piercing, finesse, thrown |
+
+*Purchased in Aldenmire.*
+
+| Item | Holder | Notes |
+|---|---|---|
+| [[Vine Dagger]] | Amoris | Bought at market stall; vine and rose etchings; suspiciously cheap |
+
 ---
 
 ## Individual Character Items
@@ -74,7 +88,7 @@ These items have narrative significance. Track them carefully.
 - Disguise kit
 
 ### Amoris
-- No weapons noted
+- [[Vine Dagger]] — vine and rose etchings; bought in Aldenmire market
 - False identity documents (Charlatan background)
 - Disguise kit
 - Forgery kit

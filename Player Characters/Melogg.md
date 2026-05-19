@@ -19,7 +19,7 @@ tags: [player-character, barbarian, golem, homebrew]
 | | |
 |--|--|
 | **AC** | 16 (Iron Frame: 13 + CON 3, unarmored) |
-| **HP** | 15 (12 + CON 3) |
+| **HP** | 13/15 (took 2 damage in Session 01) |
 | **Hit Die** | d12 |
 | **Initiative** | +0 (DEX) |
 | **Speed** | 25 ft |

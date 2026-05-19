@@ -313,3 +313,29 @@ The lure. Someone described Aeritch specifically to the Albertich clan. Someone 
 - The Greenward gets worse overnight; Maret may send for the party if something happens
 - Introduce the Old Chord shrine early — seed it as something they pass but don't fully investigate
 - Goatius Everest should almost be noticed: a glimpse of someone watching from across the street, gone when they look again
+
+---
+
+## What Actually Happened
+
+*Notes from play. Deviations from prep are marked.*
+
+### Market (afternoon, before the inn)
+
+Amoris was in [[Lady Timbra]]'s form when she visited the market. She bought a dagger from a stall — vine and rose etchings on hilt and blade, sold by the stall owner who'd recently acquired it from a man who'd let it go too cheaply. The stall owner seemed quietly aware that her customer was not quite what she appeared.
+
+[[John Jackbox]] attempted to steal the necklace Lady Timbra was wearing. His hand found skin. The necklace is not a real object — it's part of the changeling form, part of Amoris's body. It cannot be lifted. John's attempt went nowhere.
+
+### Barkimedes
+
+[[Oswin Dray]]'s dog — [[Barkimedes]] — reacted strongly and with apparent conviction to Amoris while she was still wearing Lady Timbra's form. Not aggression, more intensity. He would not settle. Whether he sensed the changeling nature, something about Lady Timbra specifically, or something else, is unknown. He is a large dog with extremely specific opinions.
+
+### The fight
+
+Melogg took 2 damage. Current HP: 13/15.
+
+The party acquired the bridge guard's ledger, two sets of leather armour, and two daggers from the checkpoint before the Tillerman's Rest fight, not during it.
+
+### Pell
+
+[[Pell]] runs the ruins of the Merchant's Guild. Oswin mentioned this in passing. The guild building is a shell — Pell operates out of what's left of it.

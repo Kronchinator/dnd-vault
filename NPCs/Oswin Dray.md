@@ -14,6 +14,9 @@ A broad man in his fifties with a grey beard and hands that look like they've do
 
 He inherited the Tillerman's Rest from his mother and has run it without drama for twenty years. He is the first person in Aldenmire who will be kind to the party.
 
+### Barkimedes
+Oswin's dog. A large, deeply stupid, apparently indestructible hound of indeterminate breed with an enormous head and a personality like someone tried to build a good boy and got the settings slightly wrong. He lives under the bar, sleeps through fights, wakes up for cheese, and has very strong opinions about strangers that don't always correlate with whether the stranger is actually suspicious. He reacted with great intensity to [[Amoris Scilia]] while she was wearing Lady Timbra's form — an oddity, given he tolerates most regulars without comment.
+
 ## Personality
 - Warm but measured — he opens up slowly, in layers
 - Deflects questions about himself with refills and subject changes

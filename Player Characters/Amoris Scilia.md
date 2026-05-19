@@ -93,7 +93,12 @@ tags: [player-character, druid, changeling]
 
 ## Equipment
 
-*Items not yet listed.*
+| Item | Notes |
+|------|-------|
+| [[Vine Dagger]] | Purchased in Aldenmire market; vine and rose etchings; previous owner sold it too cheap |
+| Disguise kit | |
+| Forgery kit | |
+| False identity documents | Charlatan background feature |
 
 ---
 

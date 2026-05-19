@@ -23,6 +23,9 @@ About fourteen, with a dockworker's father and too much time between shifts. Wir
 - Not get beaten up by Albertich enforcers (has been once already; would prefer not to repeat it)
 - Find out what's happening at the Greenward because it scares him and he can't stop thinking about it
 
+## Location
+Currently operates out of the ruins of the Merchant's Guild — the old guild building is a shell, but Pell uses what's left of it. Oswin mentioned this to the party in Session 1.
+
 ## What Pell Knows
 - Which guards rotate at what time at the Weighing House
 - That Corvin Fels leaves by the east door at dusk, every day

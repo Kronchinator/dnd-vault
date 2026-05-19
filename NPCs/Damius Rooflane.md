@@ -25,7 +25,7 @@ He died peacefully in his study, surrounded by books. He left everything to her.
 *(Deceased)*
 
 ## Secrets
-- [[The Promissory Ring]] has Yujie's name on it, crossed out — Damius and Yujie knew each other. The nature of that relationship is unrevealed.
+- [[The Promissory Ring]] has [[Anakis]]'s name on it, crossed out — Damius and Anakis knew each other. The nature of that relationship is unrevealed.
 - Another name in the ring, not crossed out, belongs to someone still alive and still owed something. Aeritch does not know who yet.
 - He knew more about the Ravendeer instruments than he ever said — how much, and why, is a thread.
 

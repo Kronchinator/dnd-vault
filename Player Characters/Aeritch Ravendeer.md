@@ -171,13 +171,13 @@ One night, a drunk orc twice her size lurched out of the crowd and tore her blou
 
 Then the circle broke.
 
-A group of women — dressed sharp, moving together like a closed fist — shoved through the crowd and put the orc and his friends on the floor with practiced, unhurried efficiency. Their leader, a woman named **[[Yujie]]**, looked down at the men on the ground, then turned her cool appraising gaze to Aeritch.
+A group of women — dressed sharp, moving together like a closed fist — shoved through the crowd and put the orc and his friends on the floor with practiced, unhurried efficiency. Their leader, a woman named **[[Anakis]]**, looked down at the men on the ground, then turned her cool appraising gaze to Aeritch.
 
 She asked a few questions. She was thorough about ascertaining that Aeritch had reached legal age. Then she made an offer.
 
 ### The Education of a Whore & a Wizard
 
-Yujie ran an underground establishment — discreet, dangerous, and surprisingly principled by its own code. Aeritch took the job not out of desperation alone, but out of calculation. She had watched how power moved through a room her entire childhood. She understood that information, access, and desire were currencies just as real as gold.
+Anakis ran an underground establishment — discreet, dangerous, and surprisingly principled by its own code. Aeritch took the job not out of desperation alone, but out of calculation. She had watched how power moved through a room her entire childhood. She understood that information, access, and desire were currencies just as real as gold.
 
 She was a quick study.
 
@@ -208,7 +208,7 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 ### Known To
 - **[[Albertich Clan]]** — enemies, currently occupying the Ravendeer estate. Believe she is dead.
 - **[[The Ashwing]]** — destroyed her family on Albertich orders. Still at large.
-- **[[Yujie]]** — ran the [[Meridh]] establishment, gave Aeritch her footing. Relationship unknown at session start.
+- **[[Anakis]]** — ran the [[Meridh]] establishment, gave Aeritch her footing. Relationship unknown at session start.
 
 ### Family Status
 - **Father** — dead (burned in the attack)
@@ -219,7 +219,7 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 
 ### Key NPCs from Backstory
 - **[[Damius Rooflane]]** — deceased wizard, Aeritch's mentor. Left her his spellbooks.
-- **Yujie** — leader of the Meridh underground establishment. Ally or complication.
+- **[[Anakis]]** — leader of the [[Meridh]] underground establishment. Ally or complication.
 
 ### Salvaged Heirlooms
 - Blackened husk of the Flute of Stillwater

@@ -30,6 +30,6 @@ If the wearer makes a promise they do not intend to keep while wearing the ring,
 - Names inside include at least two that Aeritch recognises from her network of favours
 
 ## DM Secret
-One of the crossed-out names inside the ring is [[Yujie]]'s. [[Damius Rooflane]] and Yujie knew each other — the nature of that relationship is a thread for later.
+One of the crossed-out names inside the ring is [[Anakis]]'s. [[Damius Rooflane]] and Anakis knew each other — the nature of that relationship is a thread for later.
 
 Another name, not crossed out, belongs to someone still alive and still owed something. When Aeritch finally reads all the names, she will inherit more than a ring.

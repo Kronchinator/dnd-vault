@@ -39,4 +39,4 @@ The people of Aldenmire walk with their heads slightly down. Conversations stop 
 ## DM Notes
 - Someone in Aldenmire is feeding information to the Albertich clan — this is a slow-burn reveal
 - The Greyvein Bridge is a chokepoint; the party cannot leave or receive supply without passing the tax post
-- Aldenmire is close enough to Ravencroft's border that Amoris is uneasy here
+- Aldenmire is close enough to [[Ravencroft]]'s border that Amoris is uneasy here

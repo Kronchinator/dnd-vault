@@ -16,7 +16,7 @@ Unassuming from the outside — a simple silver ring, slightly tarnished, no gem
 
 Turn it inward and the interior is covered in names, etched in a hand so fine it requires a magnifying glass to read. Dozens of names. Some are crossed out. Some have small symbols beside them — debts settled, debts outstanding.
 
-Damius left it to Aeritch without explanation. She has never been able to read all the names.
+[[Damius Rooflane]] left it to Aeritch without explanation. She has never been able to read all the names.
 
 ## Mechanical Effect
 While wearing this ring, the wearer gains **advantage on Charisma (Deception) checks when making a promise they genuinely intend to keep.**
@@ -30,6 +30,6 @@ If the wearer makes a promise they do not intend to keep while wearing the ring,
 - Names inside include at least two that Aeritch recognises from her network of favours
 
 ## DM Secret
-One of the crossed-out names inside the ring is Yujie's. Damius and Yujie knew each other — the nature of that relationship is a thread for later.
+One of the crossed-out names inside the ring is [[Yujie]]'s. [[Damius Rooflane]] and Yujie knew each other — the nature of that relationship is a thread for later.
 
 Another name, not crossed out, belongs to someone still alive and still owed something. When Aeritch finally reads all the names, she will inherit more than a ring.

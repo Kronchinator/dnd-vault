@@ -21,8 +21,8 @@ These items have narrative significance. Track them carefully.
 | Item | Holder | Notes |
 |---|---|---|
 | [[Lyre of Veilsong]] | Aeritch | Ravendeer family heirloom; hums near the Old Chord shrine |
-| Blackened Flute of Stillwater | Aeritch | Shell only — the real instrument was stolen |
-| Shattered Drum of Rootsong | Aeritch | Shell only — the real instrument was stolen |
+| [[Flute of Stillwater]] (husk) | Aeritch | Shell only — destroyed in the Ravendeer attack |
+| [[Drum of Rootsong]] (fragments) | Aeritch | Shell only — destroyed in the Ravendeer attack |
 | Father's trade ledger | Aeritch | Sealed; contents unknown |
 | [[Kallista's Brooch]] | Amoris | Cannot be shifted away; blooms when spell slot is recovered |
 | [[Goatius's Stone]] | Melogg | Warm to the touch; rune on underside |

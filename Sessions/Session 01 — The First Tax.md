@@ -7,14 +7,17 @@ tags: [session]
 
 # Session 01 — The First Tax
 
-## Purpose
-This is a tutorial session. Players are new to D&D. Every mechanical moment should be flagged and explained naturally. The session has three beats: **Arrival**, **The Collector**, and **Last Call** (combat). End with two unresolved threads pulling the party forward.
+## What this session is for
+
+Everyone at the table is new to D&D. The goal isn't to run a perfect session — it's to make sure every player touches something mechanical, feels something personal, and leaves wanting to come back. Three beats: arrival, Corvin, the fight. End with two unresolved threads and let the party do the rest.
+
+Flag every mechanical moment, but do it in the moment, not as a lecture. You're not running a tutorial. You're running a session that happens to teach things along the way.
 
 ---
 
-## Opening DM Script — Setting the Scene
+## Opening
 
-*Read this aloud at the table before anyone rolls anything.*
+*Read this aloud before anyone rolls anything.*
 
 ---
 
@@ -28,61 +31,15 @@ This is a tutorial session. Players are new to D&D. Every mechanical moment shou
 
 ---
 
-*Now go around the table. Ask each player: "Where are you coming from, and why are you passing through Aldenmire?" Let them answer freely. Don't rush. This is worldbuilding for them.*
-
-*Then say:*
+*Go around the table. Ask each player: "Where are you coming from, and why are you passing through Aldenmire?" Let them answer freely. Don't rush — this is their first act of worldbuilding. Then say:*
 
 > The Tillerman's Rest is the only inn in Aldenmire. You can smell the woodsmoke from the street.
 
 ---
 
-## Forming the Party — Getting Strangers to Talk
-
-These techniques run inside Beat 1. You don't need the party bonded before Corvin arrives — you just need them **looking at each other**. Corvin does the rest.
-
-### 1. Remove the Choice of Sitting Apart
-Oswin only has one table that's ready. The others are dirty, broken, or reserved for a local regular. He gestures toward the one big table near the fire without asking. First-time players will just sit there — they don't know they're allowed to refuse.
-
-> *"Fire's warmest over here. Sit wherever."*
-
-They're at the same table before they've said a word to each other.
-
-### 2. Make Melogg Impossible to Ignore
-A Large golem walks into a tavern. Nobody in the room can pretend that didn't happen. Have Oswin react practically:
-
-> *"You'll want the end of the bench. The chairs won't hold you."*
-
-Every player just looked at Melogg's player. That's the first moment of shared attention. Follow it — have someone catch Melogg's eye, or ask Melogg's player directly: *"What does Melogg do when he sits down?"*
-
-### 3. Aeritch Plays
-If the player doesn't think to play the lyre, prompt them:
-
-> *"Aeritch — the common room is quiet. Oswin looks like he could use the atmosphere. What are you doing?"*
-
-Music fills a room. Give each player a one-line reaction — *"What does your character think when they hear the lyre?"* — and suddenly everyone is looking at the same person and has an opinion about her. The Lyre of Veilsong hums near the Old Chord shrine, but before that it's just a beautiful instrument played well. Let it land emotionally first.
-
-### 4. Ressi's Mind Link
-Prompt Ressi's player:
-
-> *"Ressi — you're attuned to the minds around you. The room feels heavy. There's someone nearby carrying something significant. What does Ressi do?"*
-
-If they reach out mentally to another character, ask that character's player: *"You feel a gentle presence at the edge of your thoughts — not invasive, just there. Like someone knocking. What do you do?"* This is intimate and memorable. It will bond those two players immediately.
-
-### 5. Let Amoris Almost Get Caught
-Amoris is a fugitive using a false identity. Play her nerves:
-
-> *"Amoris — two men near the door glance at you. One leans toward the other and says something quietly. They're probably talking about something else entirely. Probably. What does Amoris do?"*
-
-Whether she panics or holds very still, someone at the table notices. Have John's player roll Insight. On a success: *"She's running from something."* Now John has to decide what to do with that. Two characters with a secret between them before a word has been exchanged.
-
-### 6. Corvin Does the Rest
-When Corvin pushes Oswin, everyone at the table has the same reaction at the same time. Whatever they do — intervene, hold back, argue about it afterward — they're doing it *together*. The conversation after Corvin leaves is the party forming. Let it run.
-
----
-
 ## Beat 1 — Arrival at the Tillerman's Rest
 
-### DM Script — Entering the Tavern
+### The room
 
 > You push open the door and the warmth hits you first — a fire that looks like it's never been let out, solid and low. The common room is larger than you expected. Flagstone floor, heavy oak tables, a bar running the length of the back wall. It smells like woodsmoke, tallow candles, and something stewing in the kitchen.
 >
@@ -96,53 +53,81 @@ When Corvin pushes Oswin, everyone at the table has the same reaction at the sam
 
 ### Playing Oswin
 
-- He's warm but tired. Not defeated — just carrying weight.
-- He'll offer rooms (4 copper each), stew (2 copper), ale (1 copper).
-- If asked about the town: *"Town's fine. Always been fine."* Beat. *"Eight months ago the Albertich lot set up on the bridge. Now the town's fine and eight silvers lighter every week."*
-- If asked about the Greenward: He goes quiet. *"Old Maret's the one to ask. Last house on the north side. She watches it."* He doesn't say more.
-- If asked about himself: He deflects with a refill.
+He's warm but tired. Not defeated, just carrying weight. He offers rooms (4 copper each), stew (2 copper), ale (1 copper). Ask about the town and he gives: *"Town's fine. Always been fine."* A beat. *"Eight months ago the Albertich lot set up on the bridge. Now the town's fine and eight silvers lighter every week."* Ask about the Greenward and he goes quiet, points them to Maret — last house on the north side, she watches it — and doesn't say more. Questions about himself get deflected with a refill.
 
-**Let the party settle in and talk to each other. Give this 20-30 minutes. Don't rush to the next beat.**
+Give the party 20-30 minutes here. Let them talk. Don't rush to Corvin.
 
 ---
 
-### Optional — The Market (if players explore before dark)
+### Getting strangers to look at each other
 
-*If players want to see the town before nightfall, describe this:*
+You don't need the party bonded before Corvin arrives. You just need them aware of each other. Here's how to get there.
+
+Oswin only has one table ready. The others are dirty, broken, or held for a local regular. He gestures toward the big one near the fire without asking. First-time players will just sit down — they don't know they're allowed to refuse.
+
+> *"Fire's warmest over here. Sit wherever."*
+
+A Large golem walks into a tavern. Nobody in the room can pretend that didn't happen. Have Oswin react practically:
+
+> *"You'll want the end of the bench. The chairs won't hold you."*
+
+Every player just looked at Melogg's player. Follow that — catch someone's eye, or ask Melogg directly what they do when they sit down.
+
+If Aeritch's player doesn't think to play the lyre, prompt them:
+
+> *"Aeritch — the common room is quiet. Oswin looks like he could use the atmosphere. What are you doing?"*
+
+Music fills a room. Go around the table and ask each player what their character thinks when they hear it. Suddenly everyone has an opinion about the same person. The Lyre of Veilsong will hum near the Old Chord shrine eventually, but right now it's just a beautiful instrument played well. Let it land emotionally before it becomes plot.
+
+Then use Ressi. Prompt them:
+
+> *"Ressi — you're attuned to the minds around you. The room feels heavy. There's someone nearby carrying something significant. What does Ressi do?"*
+
+If they reach out mentally, ask the other player: *"You feel a gentle presence at the edge of your thoughts — not invasive, just there. Like someone knocking. What do you do?"* This will bond those two players for the rest of the session.
+
+Amoris is a fugitive using a false identity. Play her nerves:
+
+> *"Amoris — two men near the door glance at you. One leans toward the other and says something quietly. They're probably talking about something else entirely. Probably. What does Amoris do?"*
+
+Whether she panics or holds very still, someone notices. Have John roll Insight. On a success: *"She's running from something."* Two characters with a secret between them before a word has been exchanged.
+
+Then Corvin walks in, and whatever the party does — intervene, hold back, argue about it afterward — they're doing it together. The conversation after he leaves is the party forming. Let it run.
+
+---
+
+### Optional — the market (before dark)
 
 > The market square is half-empty this time of day. A few stalls are still open — a bread seller, a leatherworker, a woman with dried herbs. At the edge of the square, near the road to the bridge, two men in matching grey coats stand by a small folding table. A ledger is open in front of them. A merchant is speaking to them in a low voice, hands out, expression tight. One of the men writes something without looking up. The merchant's shoulders drop. He nods. He hands over a small purse. The man in grey adds it to a locked box without counting it.
 
-*If players approach:* The collectors look up. "Passing through?" They're not rude. They check the party against a written list — they're not on it. "Move along then." No aggression yet. This is just bureaucracy.
+If they approach: the collectors look up. "Passing through?" They check the party against a list — not on it. "Move along then." No aggression. This is just bureaucracy. This is the Albertich clan at rest.
 
 ---
 
-### The Greenward (if players seek out Maret before dark)
+### The Greenward (if they find Maret before dark)
 
-**Location:** Last house on the north edge of town, facing the common green.
+Last house on the north edge of town, facing the common green.
 
 > The grass here grows wrong. Dark at the stem — almost black — where it should be green. The blossoms that push through are pale and scentless. The ground has a smell to it, something low and mineral, like turned earth after rain except there hasn't been rain.
 
-**Maret's House:**
-
 > The woman who answers is old enough that her age is hard to guess. She looks at you for a long moment before she steps aside. Inside, her house is neat, dim, and very quiet. She has a chair facing the window that looks out at the Greenward. There is a worn patch on the floorboards there.
 
-*She'll talk if the party seems serious. She says:*
+She'll talk if the party seems serious:
 
 > "Three weeks back. Past midnight. I don't sleep well — my hip. I was sitting here. There was a figure out on the green. Walking slow. No lantern. I thought — someone's had too much at Oswin's." She pauses. "Then I noticed it had no shadow. The moon was up full. Everything casts a shadow. Not this." Another pause. "Where it stopped and stood, the grass was black by morning."
 
-*She shows them a sketch she made on the back of an old letter. The figure is featureless — blurred at the edges, as though between shapes.*
+She shows them a sketch — the figure blurred at the edges, as though between shapes.
 
-**Mechanical trigger — Amoris only:** The brand on Amoris's hand aches dully when she steps onto the Greenward. She hasn't felt it do that before. *(Tell the Amoris player this quietly, or pass them a note.)*
+Pass a note to Amoris's player, or say it quietly: the brand on her hand aches when she steps onto the Greenward. She hasn't felt it do that before.
 
-**Mechanical trigger — Ressi only:** Ressi can make a DC 13 Nature or Religion check. On a success: the roots beneath the dark patches spiral downward in a perfect pattern — not random decay, but deliberate geometry. Something beneath is pulling them.
+Ressi can roll DC 13 Nature or Religion. On a success: the roots beneath the dark patches spiral downward in a perfect geometric pattern. Not decay. Something beneath is pulling them deliberately.
 
 ---
 
 ## Beat 2 — The Collector
 
-**Timing:** Early evening. Party is back in the Tillerman's Rest. This scene is non-combat and sets up everything.
+Early evening. The party is back in the Tillerman's Rest.
 
-### DM Script — Corvin Enters
+### Corvin enters
 
 > The door opens and the warmth doesn't go out of the room, but something else does.
 >
@@ -154,13 +139,11 @@ When Corvin pushes Oswin, everyone at the table has the same reaction at the sam
 
 ---
 
-### Running Corvin
-
 Corvin Fels does not raise his voice. He does not threaten explicitly. He documents everything.
 
-**Oswin's response:** *"I'm short. Two caravans cancelled after the incident on the north road. I'll have it by end of week."*
+Oswin: *"I'm short. Two caravans cancelled after the incident on the north road. I'll have it by end of week."*
 
-**Corvin's response:** *"That's not what the arrangement says."* He writes something. *"You have until tomorrow morning. If the sum isn't available, the Weighing House will need to take the deed as collateral. Standard procedure."* He closes the ledger. He looks up — and for the first time, he looks at the party.
+Corvin: *"That's not what the arrangement says."* He writes something. *"You have until tomorrow morning. If the sum isn't available, the Weighing House will need to take the deed as collateral. Standard procedure."* He closes the ledger and looks up — and for the first time, looks at the party.
 
 > He takes in each of you in turn. A large golem. A tiefling. A kalashtar cleric. A bard with a lyre. A woman with grey eyes that don't quite hold still. A rogue. He smiles. It is a very pleasant smile.
 >
@@ -170,45 +153,43 @@ Corvin Fels does not raise his voice. He does not threaten explicitly. He docume
 
 ---
 
-### What Happens Next
+### If the party reacts
 
-**If the party does nothing:** Oswin exhales. He thanks them quietly for not making it worse. Offer a round on the house. He'll talk more now — about Corvin, the Weighing House, the Greenward, Maret.
+If they do nothing: Oswin exhales. Quietly thanks them for not making it worse. Round on the house. He'll talk more now — Corvin, the Weighing House, the Greenward, Maret.
 
-**If the party tries to intervene during the scene:**
+If they go aggressive: the two collectors step forward. Corvin raises a hand to stop them. Looks at the player calmly. *"I'd encourage you to consider your lodging situation carefully."* He leaves. If they push physically, the collectors fight (Enforcer stat blocks) — but Corvin walks out. They've made a serious enemy in their first hour.
 
-- *Aggressive approach:* The two collectors step forward. Corvin raises a hand to stop them. He looks at the player calmly. *"I'd encourage you to consider your lodging situation carefully."* He leaves. If they push physically, the collectors fight (use Enforcer stat blocks) — but Corvin walks out and the party just made a powerful enemy in their first hour in town.
-- *Persuasion/Deception:* Let them roll. DC 14. On success, Corvin pauses — *"Interesting. I'll note your interest in Mister Dray's accounts."* He still leaves, but he files it.
-- *Offering to pay Oswin's debt:* Corvin accepts without reaction. He writes it down. This costs the party 8 silver and buys them nothing except Oswin's loyalty, which is worth a lot.
+Persuasion or Deception, DC 14: on a success, Corvin pauses. *"Interesting. I'll note your interest in Mister Dray's accounts."* He still leaves. That's worse in the long run.
+
+If they offer to pay Oswin's debt: Corvin accepts without reaction. Writes it down. Costs the party 8 silver and buys them nothing except Oswin's loyalty, which is worth more than they know.
 
 ---
 
-## Beat 3 — The Merchant's Warning
+## Beat 3 — The merchant's warning
 
-**Timing:** After Corvin leaves, mid-evening. The party is settling in.
+After Corvin leaves. Mid-evening.
 
 > The door opens again. A man staggers in — travelling clothes, one eye swollen shut, lip split. He collapses into a chair near the fire. Oswin is around the bar in seconds.
->
-> The man came from the north road. The Albertich collectors took everything — cart, goods, horse. Beat him on the road for being slow with the toll.
->
-> Before he passed out, he says one more thing.
 
-*Tell the party:*
+He came from the north road. The Albertich collectors took everything — cart, goods, horse. Beat him on the road for being slow with the toll.
+
+Before he passes out, he says one more thing:
 
 > He says the collectors were talking while they worked on him. They mentioned they were waiting for someone. Coming through Aldenmire soon. A woman. Pale hair. A lyre.
 
-*Let the table react. Aeritch's player should feel this.*
+Let that sit. Aeritch's player should feel it.
 
 > The man's eyes close. He's breathing. He just needs rest. But the information is alive in the room now.
 
-**DM Note:** Someone in Aldenmire passed Aeritch's description to the Albertich clan. This is a thread for later — could be anyone, including someone the party hasn't met yet.
+Someone in Aldenmire passed Aeritch's description to the Albertich clan before the party even arrived. This is a thread for later — it could be anyone, including someone they haven't met yet.
 
 ---
 
-## Beat 4 — Last Call (Combat Tutorial)
+## Beat 4 — Last Call
 
-**Timing:** Past midnight. Fire banked low. Most locals have gone home. The party has taken their rooms but some are still downstairs. Oswin is behind the bar.
+Past midnight. Fire banked low. Most locals are gone. Some of the party has gone to their rooms, some are still downstairs. Oswin is behind the bar.
 
-### DM Script — They Come
+### They come
 
 > You hear them before the door opens — boots on the stone outside, more than one pair, not trying to be quiet.
 >
@@ -224,25 +205,25 @@ Corvin Fels does not raise his voice. He does not threaten explicitly. He docume
 
 ---
 
-### Enemy Stat Blocks
+### Enemy stat blocks
 
 **Albertich Enforcer** *(×3)*
 - AC 12 (leather armour), HP 11, Speed 30 ft
 - Initiative: +1
-- **Scimitar:** +4 to hit, 1d6+2 slashing
+- Scimitar: +4 to hit, 1d6+2 slashing
 - No special abilities. They follow orders.
 
 **Brek, Ground Captain** *(×1)*
 - AC 14 (studded leather), HP 22, Speed 30 ft
 - Initiative: +2
-- **Scimitar:** +4 to hit, 1d6+2 slashing
-- **Heavy Crossbow:** +3 to hit, 1d10+1 piercing, range 100/400
-- **Parry (Reaction):** When hit by a melee attack, add +2 to AC against that attack. Once per round.
-- **Morale:** At 11 HP (half), Brek calls a fighting retreat. He will not die for this job.
+- Scimitar: +4 to hit, 1d6+2 slashing
+- Heavy Crossbow: +3 to hit, 1d10+1 piercing, range 100/400
+- Parry (Reaction): when hit by a melee attack, add +2 to AC against that attack, once per round
+- Morale: retreats at 11 HP. He will not die for this job.
 
 ---
 
-### Tavern Combat Map
+### The room
 
 ```
 [ KITCHEN DOOR ]     [ BACK DOOR → riverside ]
@@ -256,49 +237,31 @@ Corvin Fels does not raise his voice. He does not threaten explicitly. He docume
 [ FRONT DOOR — Enforcer 3 guarding ]
 ```
 
-**Cover and terrain:**
-- Bar counter — half cover (+2 AC), John will want this
-- Fireplace side — dim light, concealment possible
-- Tables — can be flipped (bonus action) for half cover
-- Back door — escape or flanking route to the riverside
+Bar counter: half cover (+2 AC), John will want this. Fireplace side: dim light, concealment possible. Tables: can be flipped on a bonus action. The back door leads to the riverside — escape or flanking, depending on who's using it.
 
 ---
 
-### Tutorial Callouts — Run These In-Character
+### Teaching the fight
 
-**MELOGG — Teaching Rage and Bonus Actions**
+This is a tutorial combat, but don't announce it. Know which moment belongs to which player and be ready when it arrives.
 
-Brek shoves Oswin. Melogg is the closest. Before Melogg's player declares anything, say:
+Brek shoves Oswin. Melogg is closest. Before Melogg's player declares anything, ask what they do. When they say attack, pause: *"Before you charge — your character has something called Rage. It's a Bonus Action, meaning you can do it on the same turn as an Attack. Do you want to rage first?"* Walk them through it: Bonus Action to Rage, then Attack Action. Then: *"While you're raging, you deal an extra 2 damage on Strength attacks, and you have resistance to bludgeoning, piercing, and slashing damage — those scimitars do half damage to you. You are the wall between them and everyone else."*
 
-> "Melogg — you see Oswin hit the bar. What do you do?"
+Wait for an enforcer to end up adjacent to another party member. John moves behind the bar. *"You're in half cover — they have a -2 to hit you. And because you're a Rogue: if you have advantage on an attack, or if an ally is within 5 feet of your target, you add Sneak Attack — 1d6 extra damage, once per turn. Does John want to line up a shot?"* Let them feel the spike when it lands.
 
-When they say attack, pause: *"Before you charge in — your character has an ability called Rage. It's a Bonus Action, meaning you can do it on the same turn as an Attack. Do you want to rage first?"* Walk them through: declare Rage as Bonus Action → then make the Attack Action. Then say: *"While you're raging, you deal an extra 2 damage on Strength melee attacks, and you have resistance to bludgeoning, piercing, and slashing damage — meaning those scimitars only do half damage to you. You are the wall between them and everyone else."*
+Two enforcers grouped near the front door. *"Aeritch — you have a spell called Sleep. No hit roll needed. You pick a point in range and roll 5d8 — that's a pool of hit points. Starting from the lowest HP creature in the area, it puts them to sleep until they take damage or someone wakes them. No save. Do you want to try it?"* When enforcers crumple: *"Sleeping creatures are unconscious — attacks against them are automatic hits, and melee attacks are critical hits. They're completely helpless."*
 
-**JOHN — Teaching Sneak Attack**
+An enforcer breaks toward the back door. *"Amoris — you can cast Entangle. Roots erupt from the earth just outside the back door. Creatures in the area make a Strength save against DC 12 — fail and they're restrained. They can try to break free each turn."* After casting: *"This spell requires Concentration. If you cast another Concentration spell, or take damage and fail a Constitution save, it ends. Stay back and keep those roots up."*
 
-An enforcer is grappling with or adjacent to another party member. John moves behind the bar. Say: *"You're in half cover — attackers have a -2 to hit you. And because you're a Rogue, if you have advantage on an attack OR if an ally is within 5 feet of your target, you can add your Sneak Attack dice — that's 1d6 extra damage, once per turn. Does John want to line up a shot?"* Roll the attack. If it hits, say: *"Roll your Sneak Attack — 1d6 on top of your weapon damage."* Let them feel the spike.
+Wait for someone to drop low. *"Ressi — you have Healing Word. It's a Bonus Action, which means you can heal and still take your full Action this turn. You call out a word of power and a creature you can see regains hit points. Do you want to heal [player] and still act?"* After the heal: *"Your Action is still available. Sacred Flame — Dexterity save, 1d8 radiant on fail."*
 
-**AERITCH — Teaching Sleep**
-
-Two enforcers are grouped near the front door. Say: *"Aeritch — you have a spell called Sleep. It doesn't require a hit roll. You pick a point in range, and you roll dice — 5d8 — and that's a pool of hit points. Starting from the lowest HP creature in the area, it puts them to sleep until they take damage or someone wakes them. No save. Do you want to try it?"* Roll the pool. One or two enforcers crumple. Explain: sleeping creatures are unconscious, attacks against them are automatic hits, and melee attacks against them are critical hits. *"They're completely helpless unless someone wakes them."*
-
-**AMORIS — Teaching Concentration Spells**
-
-An enforcer breaks toward the back door. Say: *"Amoris — you can cast Entangle, targeting the area just outside the back door. Roots erupt from the earth and reach through the doorframe. Creatures in the area make a Strength saving throw against your DC of 12 — if they fail, they're restrained. They can try to break free each turn."* After casting: *"This spell requires Concentration — it means if you cast another Concentration spell, or take damage and fail a Constitution save, the spell ends. Stay out of the worst of the fighting to keep those roots up."*
-
-**RESSI — Teaching Healing Word and Bonus Actions**
-
-Wait for a moment where Anakis or another player takes a heavy hit and drops low. Say: *"Ressi — you have Healing Word. It's a Bonus Action, which means you can use it and still take your full Action this turn. You call out a word of power and a creature you can see regains hit points. Do you want to heal [player] and still act?"* After the heal: *"Your Action is still available. Sacred Flame your target — it's a Dexterity save, 1d8 radiant on fail."*
-
-**ANAKIS — Teaching Thunderwave**
-
-Brek and an enforcer are both within 15 feet. Say: *"Anakis — Thunderwave is a 15-foot cube originating from you. Every creature in the area makes a Constitution saving throw against DC 13. On a failure, they take 2d8 thunder damage and are pushed 10 feet. The sound is audible 300 feet away — which might matter later. Do you want to clear the room?"* After casting: describe the boom, the shockwave, the bodies slamming into furniture. Make it feel enormous.
+Brek and an enforcer are both within 15 feet. *"Anakis — Thunderwave is a 15-foot cube originating from you. Every creature in range makes a Constitution save against DC 13. Fail: 2d8 thunder damage and pushed 10 feet. The sound is audible 300 feet away, which might matter. Do you want to clear the room?"* After casting, describe the boom. Make it feel enormous. They earned it.
 
 ---
 
-### Brek's Exit
+### Brek's exit
 
-When Brek reaches 11 HP, run this:
+At 11 HP:
 
 > He takes the hit. Steps back. His expression doesn't change — he just recalculates. He unslings the crossbow, levels it at the room, and starts moving toward the door.
 >
@@ -306,11 +269,11 @@ When Brek reaches 11 HP, run this:
 >
 > He backs through the door. It swings shut.
 
-**Do not let the party pursue into the street.** If they try: there are more men outside — not fighters, just watchers. Brek is gone. The message is sent.
+Don't let the party pursue. There are more men outside — not fighters, just watchers. Brek is gone. The report is already being filed in his head.
 
 ---
 
-### After the Fight
+### After the fight
 
 > Oswin pulls himself up from behind the bar, one hand on the wood. He looks at each of you. At the sleeping enforcers on the floor. At the scorch marks on the flagstone. At his tavern — still standing.
 >
@@ -318,45 +281,35 @@ When Brek reaches 11 HP, run this:
 >
 > "I can't pay you," he says. "But you can have the rooms. And I'll tell you everything I know about that man."
 
-**Award 75 XP each.** The party can take a short rest here. During the rest, Oswin talks:
-- Brek is the Ashwing's local enforcer — the Ashwing himself is a dragonborn, rarely seen, does the serious work
-- Corvin Fels runs the Weighing House — everything flows through him
-- Someone in town has been feeding information to the Albertich clan. Oswin doesn't know who.
-- He mentions the Greenward again, and Maret, if the party hasn't been yet
+Award 75 XP each. Short rest. Oswin talks: Brek reports to the Ashwing, a dragonborn who does the serious work and is rarely seen. Corvin Fels runs the Weighing House and everything flows through him. Someone in Aldenmire has been feeding information to the Albertich clan — Oswin doesn't know who. And the Greenward, and Maret, if the party hasn't gone yet.
 
 ---
 
-## Session Wrap — The Two Threads
+## Closing — the two threads
 
-End the session with the party having two clear pulls:
+End with both of these alive in the room.
 
-1. **The Greenward.** The blackened roots. The faceless figure. The ache in Amoris's hand. Something is happening at the edge of town and nobody's talking about it properly.
+The Greenward. The blackened roots. The faceless figure. The ache in Amoris's hand. Something is happening at the edge of town and nobody's talking about it properly.
 
-2. **The Lure.** Someone described Aeritch specifically to the Albertich clan. Someone knew she'd be here. That information came from somewhere — and it means someone is watching.
+The lure. Someone described Aeritch specifically to the Albertich clan. Someone knew she'd be here. That information came from somewhere — and it means someone is watching.
 
 *Tell the players:* "You're in Aldenmire. You have a warm fire, a bottle of Oswin's best, and two problems that don't have answers yet. That's where we'll pick up next time."
 
 ---
 
-## Secrets Revealed
-- The Albertich clan is actively looking for Aeritch
-- The Greenward is exhibiting impossible growth patterns
-- Brek is a ground-level enforcer, not the top of the chain (the Ashwing exists above him)
+## What they know now
+- The Albertich clan is actively hunting Aeritch
+- The Greenward is exhibiting growth patterns that shouldn't be possible
+- Brek isn't the top of the chain — someone called the Ashwing is above him
 
-## Secrets Still Hidden
-- The figure Maret saw was a branded changeling — connected to Amoris's rune
+## What's still hidden
+- The figure Maret saw was a branded changeling, connected to Amoris's rune, not dangerous
 - The Old Chord shrine hums in the presence of the Lyre of Veilsong
-- Goatius Everest is always nearby Melogg; the party has not noticed him yet
-- The information leak on Aeritch came from within Aldenmire
+- Goatius Everest has been nearby Melogg the entire session; nobody noticed
+- The information leak on Aeritch came from inside Aldenmire
 
-## Loose Threads Opened
-- Who told the Albertich clan about Aeritch?
-- What is the faceless figure in the Greenward?
-- What does the rune brand react to, and why now?
-- What is Brek's next move?
-
-## Notes for Next Session
-- Corvin Fels will escalate — possibly moving against Oswin's deed as threatened
-- The Greenward grows worse; Maret will summon the party if something happens overnight
-- Introduce the Old Chord shrine early in Session 2
-- Consider having Goatius Everest be *almost* noticed — someone catches a glimpse of him watching from across the street
+## For next session
+- Corvin will escalate — possibly moving on Oswin's deed as threatened
+- The Greenward gets worse overnight; Maret may send for the party if something happens
+- Introduce the Old Chord shrine early — seed it as something they pass but don't fully investigate
+- Goatius Everest should almost be noticed: a glimpse of someone watching from across the street, gone when they look again

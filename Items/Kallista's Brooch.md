@@ -9,10 +9,10 @@ tags: [item, amoris, kallista, shapeshifting]
 
 # Kallista's Brooch
 
-*A small pressed flower — a pale mushroom bloom — preserved in resin and set in a simple silver clasp. Kallista wore it every day.*
+*A small pressed flower — a pale mushroom bloom — preserved in resin and set in a simple silver clasp. [[Princess Kallista]] wore it every day.*
 
 ## Description
-Kallista had a hyperfixation with mushrooms. This brooch was the physical proof of it — a tiny pale bloom she found in the woods as a girl, pressed flat and sealed in resin by a castle jeweller as a joke gift. She wore it on everything. She was wearing it the day she died.
+[[Princess Kallista]] had a hyperfixation with mushrooms. This brooch was the physical proof of it — a tiny pale bloom she found in the woods as a girl, pressed flat and sealed in resin by a castle jeweller as a joke gift. She wore it on everything. She was wearing it the day she died.
 
 Amoris has it. She doesn't talk about it.
 

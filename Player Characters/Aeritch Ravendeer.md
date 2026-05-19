@@ -121,7 +121,7 @@ Together, the three siblings formed a triad of immense magical and diplomatic po
 
 ### The Shadow of Rivals
 
-Such power does not go unenvied. The Ravendeers had long been shadowed by the **Albertich clan**, a family of ruthless mercantile ambitions who believed the region's trade should answer to them alone. Their most dangerous instrument of spite was a dragonborn enforcer — a fearsome creature known only by the title **The Ashwing**, widely rumored to be the husband of a runaway noble bride. Where the Albertichs wanted leverage, The Ashwing provided destruction.
+Such power does not go unenvied. The Ravendeers had long been shadowed by the **[[Albertich Clan]]**, a family of ruthless mercantile ambitions who believed the region's trade should answer to them alone. Their most dangerous instrument of spite was a dragonborn enforcer — a fearsome creature known only by the title **[[The Ashwing]]**, widely rumored to be the husband of a runaway noble bride. Where the Albertichs wanted leverage, The Ashwing provided destruction.
 
 As a result, the Ravendeers lived under near-constant armed escort — guards at every gate, watchers on every road. The clan's public life was a fortress. The only reprieve came each summer, when the family retreated to a coastal sanctuary — a secret, unmarked estate nestled where sea cliffs met ancient forest, known only to the most trusted family members and a small circle of devoted household servants. No servants were brought from outside. No letters were sent with location. It was the one place in the world where the Ravendeers could exhale.
 
@@ -133,7 +133,7 @@ She smelled it before she heard it — the acrid bite of dragonfire carried on t
 
 Stone had cracked. Walls had caved inward. The safe rooms — reinforced chambers meant to shelter the family from attack — had not held against whatever had been unleashed from above.
 
-Circling high over the wreckage, wings beating slow and triumphant against the rising smoke, was an unmistakable silhouette: massive, scaled, serpentine — the unmistakable shape of **The Ashwing**, banking lazily before disappearing into the clouds.
+Circling high over the wreckage, wings beating slow and triumphant against the rising smoke, was an unmistakable silhouette: massive, scaled, serpentine — the unmistakable shape of **[[The Ashwing]]**, banking lazily before disappearing into the clouds.
 
 ### What Was Left
 
@@ -161,7 +161,7 @@ She turned and walked away without a word to anyone.
 
 ### Meridh — The Tavern & The Turning Point
 
-With nowhere to go and dwindling coin, Aeritch found herself in **Meridh**, a modest port town far enough from the city that no one asked questions. She rented a cot at a dingy hostel and discovered, quickly, that grief is expensive. Her savings were bleeding out.
+With nowhere to go and dwindling coin, Aeritch found herself in **[[Meridh]]**, a modest port town far enough from the city that no one asked questions. She rented a cot at a dingy hostel and discovered, quickly, that grief is expensive. Her savings were bleeding out.
 
 She began busking at the local tavern, **The Salted Crow** — playing her lyre for coin tossed by sailors and merchants who couldn't have known what they were hearing. She was good. She had always been good. But a young woman alone, night after night in a tavern, draws attention beyond the music.
 
@@ -171,7 +171,7 @@ One night, a drunk orc twice her size lurched out of the crowd and tore her blou
 
 Then the circle broke.
 
-A group of women — dressed sharp, moving together like a closed fist — shoved through the crowd and put the orc and his friends on the floor with practiced, unhurried efficiency. Their leader, a woman named **Yujie**, looked down at the men on the ground, then turned her cool appraising gaze to Aeritch.
+A group of women — dressed sharp, moving together like a closed fist — shoved through the crowd and put the orc and his friends on the floor with practiced, unhurried efficiency. Their leader, a woman named **[[Yujie]]**, looked down at the men on the ground, then turned her cool appraising gaze to Aeritch.
 
 She asked a few questions. She was thorough about ascertaining that Aeritch had reached legal age. Then she made an offer.
 
@@ -183,7 +183,7 @@ She was a quick study.
 
 Over the years she built what she privately called her **network of favours** — men of influence who believed they were indulging in pleasure, not being slowly mapped by an elf with a long memory and longer plans. She catalogued contacts, overheard policy disputes, learned names and debts and secrets. Every seduction was a lesson extracted.
 
-The most valuable lesson came from an old man named **Damius Rooflane** — a wizard of considerable power and considerably more loneliness. He had outlived his entire family and carried his accumulated knowledge the way some old men carry regret: heavily, and with nowhere to put it down.
+The most valuable lesson came from an old man named **[[Damius Rooflane]]** — a wizard of considerable power and considerably more loneliness. He had outlived his entire family and carried his accumulated knowledge the way some old men carry regret: heavily, and with nowhere to put it down.
 
 Aeritch became his confidante. Then his student. He taught her willingly, gratefully — finding in her sharp mind and genuine curiosity something he had given up hoping to pass on. She learned the architecture of spells, the grammar of arcane theory, the patience that magic demands. She did not rush him. She did not perform affection she did not feel — somewhere along the way, she had come to genuinely care for the old man, even as she had come to him by design.
 
@@ -195,7 +195,7 @@ Aeritch Ravendeer emerged from the years in Meridh as something her family's kil
 
 She carries her Lyre of Veilsong everywhere — the last sacred instrument of her bloodline, and her most intimate connection to who she was. She plays when she needs to think, or to remember. She has a network of contacts woven across the underworld and merchant class alike, and a mind sharpened by years of reading people who thought they had the advantage.
 
-The Albertich clan still flies their banners over her family's home. The Ashwing is still out there. And her mother's last breath is still the loudest thing she has ever heard.
+The [[Albertich Clan]] still flies their banners over her family's home. [[The Ashwing]] is still out there. And her mother's last breath is still the loudest thing she has ever heard.
 
 She has not forgotten. She has only been learning how to make forgetting impossible for everyone else.
 
@@ -206,9 +206,9 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 ## DM Notes
 
 ### Known To
-- **Albertich clan** — enemies, currently occupying the Ravendeer estate. Believe she is dead.
-- **The Ashwing** — destroyed her family on Albertich orders. Still at large.
-- **Yujie** — ran the Meridh establishment, gave Aeritch her footing. Relationship unknown at session start.
+- **[[Albertich Clan]]** — enemies, currently occupying the Ravendeer estate. Believe she is dead.
+- **[[The Ashwing]]** — destroyed her family on Albertich orders. Still at large.
+- **[[Yujie]]** — ran the [[Meridh]] establishment, gave Aeritch her footing. Relationship unknown at session start.
 
 ### Family Status
 - **Father** — dead (burned in the attack)
@@ -218,7 +218,7 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 - Aeritch holds the only surviving instrument — the Lyre of Veilsong
 
 ### Key NPCs from Backstory
-- **Damius Rooflane** — deceased wizard, Aeritch's mentor. Left her his spellbooks.
+- **[[Damius Rooflane]]** — deceased wizard, Aeritch's mentor. Left her his spellbooks.
 - **Yujie** — leader of the Meridh underground establishment. Ally or complication.
 
 ### Salvaged Heirlooms

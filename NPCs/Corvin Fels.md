@@ -28,7 +28,7 @@ He has a very pleasant smile. He uses it constantly. It does not reach his eyes.
 
 ## Secrets
 - The ledger in the back room contains Aeritch's name with a note: *"High priority. Do not approach directly. Notify Brek."* He did not write this — it arrived from above him.
-- Corvin has private doubts about the Ashwing's methods but would never say so
+- Corvin has private doubts about [[The Ashwing]]'s methods but would never say so
 - He has identified the Albertich informant in Aldenmire and uses them regularly — he considers this good asset management
 
 ## How to Play Corvin

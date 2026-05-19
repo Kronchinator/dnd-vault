@@ -28,7 +28,7 @@ It smells like ink, beeswax, and something faintly metallic.
 - [[Session 01 — The First Tax]]
 
 ## DM Notes
-- The back room correspondence is a major information source for Act 1's mid-section
+- The back room correspondence is a major information source for Act 1's mid-section; letters reference [[The Ashwing]]'s movements
 - Breaking into the Weighing House is possible — Corvin leaves at dusk, guards change at midnight (a 3-minute window of no guard)
 - The ledgers contain Aeritch's name with a note: *"High priority. Do not approach directly. Notify Brek."* — who added this and when is a thread
-- Destroying the lockbox or ledgers would significantly disrupt Albertich operations in Aldenmire
+- Destroying the lockbox or ledgers would significantly disrupt [[Albertich Clan]] operations in Aldenmire

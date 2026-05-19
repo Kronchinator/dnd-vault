@@ -24,9 +24,9 @@ Once per long rest, Melogg can close his fist around the stone as a **bonus acti
 ## Roleplay Notes
 - Melogg finds it grounding in a way he cannot explain. When the world is too loud or too much, he holds it.
 - He does not know the rune. If anyone in the party reads it, the Arcana DC is 18 — and even on a success, they recognise the script but not the meaning. It is very old.
-- The stone grows slightly warmer when Goatius Everest is within 30 feet.
+- The stone grows slightly warmer when [[Goatius Everest]] is within 30 feet.
 
 ## DM Secret
-Goatius Everest gave Melogg this stone deliberately — it is a tracking anchor, keeping the tether stable. The rune is Goatius's mark. The warmth is Goatius's presence, always close.
+[[Goatius Everest]] gave Melogg this stone deliberately — it is a tracking anchor, keeping the tether stable. The rune is Goatius's mark. The warmth is Goatius's presence, always close.
 
 When the truth of the tether is eventually revealed, this stone will be the moment Melogg realises it predates anything he thought he knew about himself.

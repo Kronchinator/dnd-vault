@@ -21,8 +21,8 @@ He doesn't posture. He doesn't threaten loudly. He simply recalculates when thin
 - Respects competence in opponents, which makes him more dangerous, not less
 
 ## Goals
-- Locate and detain Aeritch for delivery to the Ashwing
-- Maintain Albertich enforcement operations in the Aldenmire region
+- Locate and detain Aeritch for delivery to [[The Ashwing]]
+- Maintain [[Albertich Clan]] enforcement operations in the Aldenmire region
 - Report the party's capabilities accurately to his superiors
 
 ## Combat Stats
@@ -34,7 +34,7 @@ He doesn't posture. He doesn't threaten loudly. He simply recalculates when thin
 - **Morale:** Retreats at 11 HP (half). Will not die for this assignment.
 
 ## Secrets
-- Brek knows more about why Aeritch is being sought than he's been told officially — he's overheard enough to know it connects to the Ashwing's employer, not just the Albertich clan's trade interests
+- Brek knows more about why Aeritch is being sought than he's been told officially — he's overheard enough to know it connects to [[The Ashwing]]'s employer, not just the [[Albertich Clan]]'s trade interests
 - He has a genuine respect for Aeritch's survival instincts; in a different world he might say so
 - He files complete reports — the party's abilities, their faces, their rough class breakdown — all of this goes up the chain after Session 1
 

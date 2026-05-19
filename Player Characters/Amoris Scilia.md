@@ -111,14 +111,14 @@ tags: [player-character, druid, changeling]
 | Person | Status | Notes |
 |--------|--------|-------|
 | The Handmaiden | Mother, **deceased** | Ashamed of Amoris's changeling nature |
-| Princess Kallista | Best friend, **deceased** | Died from the cursed rune; Amoris loved her most |
-| Prince Csesper | Friend, **alive** | Half-elf, helped Amoris flee; potential love interest |
+| [[Princess Kallista]] | Best friend, **deceased** | Died from the cursed rune; Amoris loved her most |
+| [[Prince Csesper]] | Friend, **alive** | Half-elf, helped Amoris flee; potential love interest |
 
 ---
 
 ## Backstory
 
-Amoris was born a changeling to the Handmaiden of Princess Kallista of Ravencroft. Her mother, ashamed of her shifting ability, ordered her to never reveal the truth. As a young child, Amoris took the form of an elf with her original silver hair and became inseparable from Princess Kallista — one year her senior, and the closest thing to a sister she ever had.
+Amoris was born a changeling to the Handmaiden of [[Princess Kallista]] of [[Ravencroft]]. Her mother, ashamed of her shifting ability, ordered her to never reveal the truth. As a young child, Amoris took the form of an elf with her original silver hair and became inseparable from Princess Kallista — one year her senior, and the closest thing to a sister she ever had.
 
 The two grew up together — pouring over books, climbing castle walls to watch stars, indulging Kallista's hyperfixations (mushrooms, animals, nature, philosophy, literature, science). When their mothers died, they held each other up. As the years passed, Kallista grew into her destined role: the Astrologer of Ravencroft, tasked with mapping the stars and bridging the constellations and the earth.
 
@@ -136,7 +136,7 @@ When she came to, Princess Kallista was dead. Blackened roots had taken every in
 
 In a panic, Amoris hid the body and walked back into the castle wearing Kallista's face. For a year she lived as the princess — wracked by guilt, barely sleeping, unable to look in a mirror.
 
-On Kallista's 21st birthday, the King revealed his plans: Kallista was to marry Prince Csesper and be officially named Ravencroft's Astrologer. Amoris panicked. She shifted accidentally. The King learned everything.
+On Kallista's 21st birthday, the King revealed his plans: Kallista was to marry [[Prince Csesper]] and be officially named [[Ravencroft]]'s Astrologer. Amoris panicked. She shifted accidentally. The King learned everything.
 
 Csesper helped her flee the grounds. She is now Ravencroft's most wanted fugitive, believed by all to have murdered the princess.
 
@@ -156,5 +156,5 @@ Hurt, terrified, and alone, Amoris wanders with one purpose: **avenge Kallista**
 - **False Identity** — What identity does Amoris currently use? Does the party know her real name?
 
 ### Known To
-- Ravencroft kingdom — wanted fugitive, accused of murdering Princess Kallista
-- Prince Csesper — knows the truth, helped her flee
+- [[Ravencroft]] kingdom — wanted fugitive, accused of murdering Princess Kallista
+- [[Prince Csesper]] — knows the truth, helped her flee

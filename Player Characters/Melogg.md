@@ -93,7 +93,7 @@ None.
 
 ### ⚠️ SECRET — PARTY DOES NOT KNOW
 
-- **Tether to Goatius Everest** — Melogg is mystically tethered to a figure named **Goatius Everest**. Range: 100 metres. If Melogg moves beyond this range, they **cannot move or speak**. Goatius is always present near Melogg — the party does not know this and should not be told.
+- **Tether to Goatius Everest** — Melogg is mystically tethered to a figure named **[[Goatius Everest]]**. Range: 100 metres. If Melogg moves beyond this range, they **cannot move or speak**. Goatius is always present near Melogg — the party does not know this and should not be told.
 - This is a critical plot constraint. Consider how this will be introduced narratively and what happens if the party separates.
 
 ### Open Questions

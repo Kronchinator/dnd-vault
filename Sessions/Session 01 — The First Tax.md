@@ -25,7 +25,7 @@ Flag every mechanical moment, but do it in the moment, not as a lecture. You're 
 >
 > You are not most people. Whether you chose this road or the road chose you, it has brought you to the same place on the same grey afternoon — the crossroads town of Aldenmire, where the Greyvein river meets the merchant road heading north.
 >
-> Aldenmire is the kind of town that used to be something. The buildings are solid stone at the base, timber on top — built to last. The market square still has a working fountain. There are children in the streets. But there is something else too — something in the way people walk with their heads slightly down, in the way conversations stop when strangers pass. Eight months ago, a faction called the Albertich clan set up a tax post on the bridge over the Greyvein. Legally, they have no authority here. Practically, they control everything that enters or leaves.
+> Aldenmire is the kind of town that used to be something. The buildings are solid stone at the base, timber on top — built to last. The market square still has a working fountain. There are children in the streets. But there is something else too — something in the way people walk with their heads slightly down, in the way conversations stop when strangers pass. Eight months ago, a faction called the Alberich clan set up a tax post on the bridge over the Greyvein. Legally, they have no authority here. Practically, they control everything that enters or leaves.
 >
 > It is late afternoon. The sky is the colour of cold ash. You are each coming into Aldenmire from different directions — and all roads, eventually, lead to the same warm fire.
 
@@ -53,7 +53,7 @@ Flag every mechanical moment, but do it in the moment, not as a lecture. You're 
 
 ### Playing Oswin
 
-He's warm but tired. Not defeated, just carrying weight. He offers rooms (4 copper each), stew (2 copper), ale (1 copper). Ask about the town and he gives: *"Town's fine. Always been fine."* A beat. *"Eight months ago the Albertich lot set up on the bridge. Now the town's fine and eight silvers lighter every week."* Ask about the Greenward and he goes quiet, points them to Maret — last house on the north side, she watches it — and doesn't say more. Questions about himself get deflected with a refill.
+He's warm but tired. Not defeated, just carrying weight. He offers rooms (4 copper each), stew (2 copper), ale (1 copper). Ask about the town and he gives: *"Town's fine. Always been fine."* A beat. *"Eight months ago the Alberich lot set up on the bridge. Now the town's fine and eight silvers lighter every week."* Ask about the Greenward and he goes quiet, points them to Maret — last house on the north side, she watches it — and doesn't say more. Questions about himself get deflected with a refill.
 
 Give the party 20-30 minutes here. Let them talk. Don't rush to Corvin.
 
@@ -99,7 +99,7 @@ Then Corvin walks in, and whatever the party does — intervene, hold back, argu
 
 > The market square is half-empty this time of day. A few stalls are still open — a bread seller, a leatherworker, a woman with dried herbs. At the edge of the square, near the road to the bridge, two men in matching grey coats stand by a small folding table. A ledger is open in front of them. A merchant is speaking to them in a low voice, hands out, expression tight. One of the men writes something without looking up. The merchant's shoulders drop. He nods. He hands over a small purse. The man in grey adds it to a locked box without counting it.
 
-If they approach: the collectors look up. "Passing through?" They check the party against a list — not on it. "Move along then." No aggression. This is just bureaucracy. This is the Albertich clan at rest.
+If they approach: the collectors look up. "Passing through?" They check the party against a list — not on it. "Move along then." No aggression. This is just bureaucracy. This is the Alberich clan at rest.
 
 ---
 
@@ -171,7 +171,7 @@ After Corvin leaves. Mid-evening.
 
 > The door opens again. A man staggers in — travelling clothes, one eye swollen shut, lip split. He collapses into a chair near the fire. Oswin is around the bar in seconds.
 
-He came from the north road. The Albertich collectors took everything — cart, goods, horse. Beat him on the road for being slow with the toll.
+He came from the north road. The Alberich collectors took everything — cart, goods, horse. Beat him on the road for being slow with the toll.
 
 Before he passes out, he says one more thing:
 
@@ -181,7 +181,7 @@ Let that sit. Aeritch's player should feel it.
 
 > The man's eyes close. He's breathing. He just needs rest. But the information is alive in the room now.
 
-Someone in Aldenmire passed Aeritch's description to the Albertich clan before the party even arrived. This is a thread for later — it could be anyone, including someone they haven't met yet.
+Someone in Aldenmire passed Aeritch's description to the Alberich clan before the party even arrived. This is a thread for later — it could be anyone, including someone they haven't met yet.
 
 ---
 
@@ -207,7 +207,7 @@ Past midnight. Fire banked low. Most locals are gone. Some of the party has gone
 
 ### Enemy stat blocks
 
-**Albertich Enforcer** *(×3)*
+**Alberich Enforcer** *(×3)*
 - AC 12 (leather armour), HP 11, Speed 30 ft
 - Initiative: +1
 - Scimitar: +4 to hit, 1d6+2 slashing
@@ -281,7 +281,7 @@ Don't let the party pursue. There are more men outside — not fighters, just wa
 >
 > "I can't pay you," he says. "But you can have the rooms. And I'll tell you everything I know about that man."
 
-Award 75 XP each. Short rest. Oswin talks: Brek reports to the Ashwing, a dragonborn who does the serious work and is rarely seen. Corvin Fels runs the Weighing House and everything flows through him. Someone in Aldenmire has been feeding information to the Albertich clan — Oswin doesn't know who. And the Greenward, and Maret, if the party hasn't gone yet.
+Award 75 XP each. Short rest. Oswin talks: Brek reports to the Ashwing, a dragonborn who does the serious work and is rarely seen. Corvin Fels runs the Weighing House and everything flows through him. Someone in Aldenmire has been feeding information to the Alberich clan — Oswin doesn't know who. And the Greenward, and Maret, if the party hasn't gone yet.
 
 ---
 
@@ -291,14 +291,14 @@ End with both of these alive in the room.
 
 The Greenward. The blackened roots. The faceless figure. The ache in Amoris's hand. Something is happening at the edge of town and nobody's talking about it properly.
 
-The lure. Someone described Aeritch specifically to the Albertich clan. Someone knew she'd be here. That information came from somewhere — and it means someone is watching.
+The lure. Someone described Aeritch specifically to the Alberich clan. Someone knew she'd be here. That information came from somewhere — and it means someone is watching.
 
 *Tell the players:* "You're in Aldenmire. You have a warm fire, a bottle of Oswin's best, and two problems that don't have answers yet. That's where we'll pick up next time."
 
 ---
 
 ## What they know now
-- The Albertich clan is actively hunting Aeritch
+- The Alberich clan is actively hunting Aeritch
 - The Greenward is exhibiting growth patterns that shouldn't be possible
 - Brek isn't the top of the chain — someone called the Ashwing is above him
 

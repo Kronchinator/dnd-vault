@@ -21,18 +21,18 @@ Oswin's dog. A large, deeply stupid, apparently indestructible hound of indeterm
 - Warm but measured — he opens up slowly, in layers
 - Deflects questions about himself with refills and subject changes
 - Deeply loyal to people who have earned it; once the party earns it, he is an asset
-- Quietly furious about the Albertich situation but practical about his powerlessness
+- Quietly furious about the Alberich situation but practical about his powerlessness
 - Has a dry sense of humour he uses when things are bad enough that humour is all that's left
 
 ## Goals
 - Keep the Tillerman's Rest standing and in his name
 - Protect his regulars — the people who have been coming here for years
-- Eventually, see the Albertich clan gone from Aldenmire
+- Eventually, see the Alberich clan gone from Aldenmire
 
 ## Secrets
 - Keeps a loaded crossbow under the bar; has never used it and hopes he never has to
 - Knows more about the Greenward than he lets on — his mother used to say the town was built on old ground and to leave the north edge alone
-- Has a theory about who the Albertich clan's informant in town is, but no proof and is afraid to be wrong
+- Has a theory about who the Alberich clan's informant in town is, but no proof and is afraid to be wrong
 
 ## Relationship to Players
 The party defended him and his inn in Session 1. He has given them the rooms and told them everything he knows about Corvin and Brek. He considers himself in their debt — and Oswin Dray pays his debts.
@@ -40,7 +40,7 @@ The party defended him and his inn in Session 1. He has given them the rooms and
 **What he'll share freely:**
 - Corvin Fels's schedule and habits
 - Brek's known associates in town
-- The fact that someone local is feeding information to the Albertich clan
+- The fact that someone local is feeding information to the Alberich clan
 - The Greenward's history of being avoided
 
 **What he needs to be pressed for:**

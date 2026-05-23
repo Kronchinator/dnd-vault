@@ -1,10 +1,10 @@
 ---
 name: Brek
 race: Human
-role: Albertich Ground Captain; the Ashwing's local enforcer
+role: Alberich Ground Captain; the Ashwing's local enforcer
 location: Mobile — operates across Aldenmire and surrounding roads
 attitude: hostile
-tags: [npc, act-1, aldenmire, albertich]
+tags: [npc, act-1, aldenmire, alberich]
 ---
 
 # Brek
@@ -22,7 +22,7 @@ He doesn't posture. He doesn't threaten loudly. He simply recalculates when thin
 
 ## Goals
 - Locate and detain Aeritch for delivery to [[The Ashwing]]
-- Maintain [[Albertich Clan]] enforcement operations in the Aldenmire region
+- Maintain [[Alberich Clan]] enforcement operations in the Aldenmire region
 - Report the party's capabilities accurately to his superiors
 
 ## Combat Stats
@@ -34,7 +34,7 @@ He doesn't posture. He doesn't threaten loudly. He simply recalculates when thin
 - **Morale:** Retreats at 11 HP (half). Will not die for this assignment.
 
 ## Secrets
-- Brek knows more about why Aeritch is being sought than he's been told officially — he's overheard enough to know it connects to [[The Ashwing]]'s employer, not just the [[Albertich Clan]]'s trade interests
+- Brek knows more about why Aeritch is being sought than he's been told officially — he's overheard enough to know it connects to [[The Ashwing]]'s employer, not just the [[Alberich Clan]]'s trade interests
 - He has a genuine respect for Aeritch's survival instincts; in a different world he might say so
 - He files complete reports — the party's abilities, their faces, their rough class breakdown — all of this goes up the chain after Session 1
 

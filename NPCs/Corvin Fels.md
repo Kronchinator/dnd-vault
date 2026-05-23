@@ -1,10 +1,10 @@
 ---
 name: Corvin Fels
 race: Human
-role: Albertich Clan Collector, Aldenmire
+role: Alberich Clan Collector, Aldenmire
 location: The Weighing House, Aldenmire
 attitude: hostile
-tags: [npc, act-1, aldenmire, albertich]
+tags: [npc, act-1, aldenmire, alberich]
 ---
 
 # Corvin Fels
@@ -22,14 +22,14 @@ He has a very pleasant smile. He uses it constantly. It does not reach his eyes.
 - Dislikes disorder; the party fighting back in Session 1 has genuinely offended his sense of process
 
 ## Goals
-- Maintain Albertich revenue streams in Aldenmire at or above target
-- Identify and neutralise threats to Albertich operations (the party is now a threat)
-- Advance within the Albertich hierarchy — Aldenmire is a stepping stone
+- Maintain Alberich revenue streams in Aldenmire at or above target
+- Identify and neutralise threats to Alberich operations (the party is now a threat)
+- Advance within the Alberich hierarchy — Aldenmire is a stepping stone
 
 ## Secrets
 - The ledger in the back room contains Aeritch's name with a note: *"High priority. Do not approach directly. Notify Brek."* He did not write this — it arrived from above him.
 - Corvin has private doubts about [[The Ashwing]]'s methods but would never say so
-- He has identified the Albertich informant in Aldenmire and uses them regularly — he considers this good asset management
+- He has identified the Alberich informant in Aldenmire and uses them regularly — he considers this good asset management
 
 ## How to Play Corvin
 Corvin is most frightening when he is polite. He should never threaten directly — he documents, he notes, he smiles. The violence is always implied, always delegated. When the party has made an enemy of him, he writes their names in the ledger. That is the moment to feel afraid.

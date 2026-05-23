@@ -13,11 +13,11 @@ The world is old. Older than the kingdoms that carved it up, older than the road
 - **[[Aldenmire]]** — crossroads town where the Greyvein river meets the north merchant road; Act 1 location
 - **[[Ravencroft]]** — kingdom near Aldenmire's border; Amoris's home
 - **[[Meridh]]** — modest port town; where Aeritch spent years after her family's death
-- The Greyvein river — runs through Aldenmire; the Albertich tax post sits on its bridge
+- The Greyvein river — runs through Aldenmire; the Alberich tax post sits on its bridge
 - The north merchant road — major trade route passing through Aldenmire
 
 ## Factions (Known)
-- **[[Albertich Clan]]** — ruthless mercantile family, current regional antagonist
+- **[[Alberich Clan]]** — ruthless mercantile family, current regional antagonist
 - **[[Ravendeer Clan]]** — destroyed; Aeritch's family; once commanded regional trade
 
 ## Undercurrents

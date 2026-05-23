@@ -121,7 +121,7 @@ Together, the three siblings formed a triad of immense magical and diplomatic po
 
 ### The Shadow of Rivals
 
-Such power does not go unenvied. The Ravendeers had long been shadowed by the **[[Albertich Clan]]**, a family of ruthless mercantile ambitions who believed the region's trade should answer to them alone. Their most dangerous instrument of spite was a dragonborn enforcer — a fearsome creature known only by the title **[[The Ashwing]]**, widely rumored to be the husband of a runaway noble bride. Where the Albertichs wanted leverage, The Ashwing provided destruction.
+Such power does not go unenvied. The Ravendeers had long been shadowed by the **[[Alberich Clan]]**, a family of ruthless mercantile ambitions who believed the region's trade should answer to them alone. Their most dangerous instrument of spite was a dragonborn enforcer — a fearsome creature known only by the title **[[The Ashwing]]**, widely rumored to be the husband of a runaway noble bride. Where the Alberichs wanted leverage, The Ashwing provided destruction.
 
 As a result, the Ravendeers lived under near-constant armed escort — guards at every gate, watchers on every road. The clan's public life was a fortress. The only reprieve came each summer, when the family retreated to a coastal sanctuary — a secret, unmarked estate nestled where sea cliffs met ancient forest, known only to the most trusted family members and a small circle of devoted household servants. No servants were brought from outside. No letters were sent with location. It was the one place in the world where the Ravendeers could exhale.
 
@@ -153,7 +153,7 @@ Then nothing.
 
 Aeritch moved with the cold efficiency of grief that has not yet become grief. She salvaged what she could — jewellery, coin purses, a sealed ledger of her father's trade contacts, her lyre — and fled the ruins before anyone could come to investigate the smoke.
 
-The journey home was long. When she finally arrived at the Ravendeer estate in the city, she stopped at the edge of the street and understood, in one look, that she had no home to return to. The Albertich clan's banners hung from the gates. Their guards patrolled the walls. The transition had been too clean, too swift — this had been planned far in advance of the fire.
+The journey home was long. When she finally arrived at the Ravendeer estate in the city, she stopped at the edge of the street and understood, in one look, that she had no home to return to. The Alberich clan's banners hung from the gates. Their guards patrolled the walls. The transition had been too clean, too swift — this had been planned far in advance of the fire.
 
 She was the last Ravendeer. And if they knew she was alive, she would not be for long.
 
@@ -195,7 +195,7 @@ Aeritch Ravendeer emerged from the years in Meridh as something her family's kil
 
 She carries her Lyre of Veilsong everywhere — the last sacred instrument of her bloodline, and her most intimate connection to who she was. She plays when she needs to think, or to remember. She has a network of contacts woven across the underworld and merchant class alike, and a mind sharpened by years of reading people who thought they had the advantage.
 
-The [[Albertich Clan]] still flies their banners over her family's home. [[The Ashwing]] is still out there. And her mother's last breath is still the loudest thing she has ever heard.
+The [[Alberich Clan]] still flies their banners over her family's home. [[The Ashwing]] is still out there. And her mother's last breath is still the loudest thing she has ever heard.
 
 She has not forgotten. She has only been learning how to make forgetting impossible for everyone else.
 
@@ -206,8 +206,8 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 ## DM Notes
 
 ### Known To
-- **[[Albertich Clan]]** — enemies, currently occupying the Ravendeer estate. Believe she is dead.
-- **[[The Ashwing]]** — destroyed her family on Albertich orders. Still at large.
+- **[[Alberich Clan]]** — enemies, currently occupying the Ravendeer estate. Believe she is dead.
+- **[[The Ashwing]]** — destroyed her family on Alberich orders. Still at large.
 - **[[Anakis]]** — ran the [[Meridh]] establishment, gave Aeritch her footing. Relationship unknown at session start.
 
 ### Family Status
@@ -227,7 +227,7 @@ She has not forgotten. She has only been learning how to make forgetting impossi
 - Father's sealed ledger of trade contacts
 
 ### Secrets / Hooks
-- The Ravendeer estate is occupied by the Albertich clan — does anyone know she's alive?
+- The Ravendeer estate is occupied by the Alberich clan — does anyone know she's alive?
 - The Lyre of Veilsong survived the dragonfire unscathed — why?
 - Damius Rooflane's spellbooks — what's in them?
 - Aeritch's network of favours — who owes her, and what could she call in?

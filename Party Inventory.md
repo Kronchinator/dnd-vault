@@ -99,6 +99,17 @@ These items have narrative significance. Track them carefully.
 - Leather armour
 - Thieves' tools
 
+### Kael
+- Shield
+- Chain mail
+- Longsword
+- Javelins ×6
+- Calligrapher's supplies
+- Holy Symbol
+- Holy Water
+- Parchment ×10
+- Rations ×7
+
 ---
 
 ## Consumables

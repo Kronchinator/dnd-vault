@@ -1,16 +1,16 @@
 ---
 name: Prince Csesper
 race: Half-elf
-role: Prince of Ravencroft; helped Amoris flee
-location: Ravencroft (presumably)
+role: Prince of Aelle; helped Amoris flee
+location: Unknown; formerly visiting Ravencroft
 attitude: friendly (to Amoris)
-tags: [npc, amoris, ravencroft, potential-ally]
+tags: [npc, amoris, aelle, ravencroft, potential-ally]
 ---
 
 # Prince Csesper
 
 ## Description
-Half-elf, the son who was meant to marry Kallista and carry the line forward. He was present the night the King uncovered the truth about Amoris. He did not stand with his father.
+Half-elf, a prince of [[Aelle]] who was meant to marry Kallista and carry a political alliance forward. He was present the night the King uncovered the truth about Amoris. He did not stand with Ravencroft.
 
 He helped Amoris get off the grounds. He did not have to. He did not explain why.
 

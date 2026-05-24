@@ -117,7 +117,7 @@ tags: [player-character, druid, changeling]
 |--------|--------|-------|
 | The Handmaiden | Mother, **deceased** | Ashamed of Amoris's changeling nature |
 | [[Princess Kallista]] | Best friend, **deceased** | Died from the cursed rune; Amoris loved her most |
-| [[Prince Csesper]] | Friend, **alive** | Half-elf, helped Amoris flee; potential love interest |
+| [[Prince Csesper]] | Friend, **alive** | Prince of [[Aelle]], helped Amoris flee; potential love interest |
 
 ---
 

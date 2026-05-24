@@ -16,7 +16,7 @@ Most people in Aldenmire have no reason to think about Ravencroft. Amoris thinks
 | Person | Role |
 |--------|------|
 | [[Princess Kallista]] | Deceased — hidden in the woods outside the castle; Amoris's best friend |
-| [[Prince Csesper]] | Half-elf prince; was to marry Kallista; helped Amoris flee |
+| [[Prince Csesper]] | Prince of [[Aelle]]; was to marry Kallista; helped Amoris flee |
 | The King | Uncovered the truth about Amoris; declared her a fugitive |
 
 ## Current Status
@@ -32,4 +32,4 @@ Whether the Astrologer tradition connects to the [[The Seal of Thoria|Seal]] or 
 ## DM Notes
 - Ravencroft is Amoris's primary motivation — she needs to clear her name and avenge Kallista
 - The kingdom's proximity to Aldenmire is a constant background pressure for Amoris
-- Prince Csesper is a potential ally if reintroduced; his motives for helping Amoris are unresolved
+- Prince Csesper is a potential ally if reintroduced; his motives for helping Amoris are unresolved, and his Aellean origin may matter diplomatically
